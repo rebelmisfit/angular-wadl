@@ -1,0 +1,9 @@
+.container
+{
+    max-width: 400px;
+    margin: 100px auto;
+    border-radius: 5px;
+    background-color: #86e9f8;
+    box-shadow: 0 0 10px rgb(7, 1, 58) ;
+    padding: 20px;
+}
